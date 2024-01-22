@@ -1,10 +1,1 @@
-<!-- GitHub Stats -->
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eivindnorling&layout=compact&theme=radical&hide=html" alt="Top Languages">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=eivindnorling&theme=radical" alt="GitHub Stats">
+![NoIdeaWhatImDoingGIF](https://github.com/eivindnorling/eivindnorling/assets/141031075/8000baaf-1761-4fb2-a795-1466d195fdc8)
