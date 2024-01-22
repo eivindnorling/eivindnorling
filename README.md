@@ -1,1 +1,2 @@
-![NoIdeaWhatImDoingGIF]([[https://github.com/eivindnorling/eivindnorling/assets/141031075/8000baaf-1761-4fb2-a795-1466d195fdc8](https://i.pinimg.com/originals/5d/95/f4/5d95f4bc8a065c4612fba4bb24bd1e72.gif)](https://media1.tenor.com/m/fLBP5vMm3EUAAAAC/no-idea-what-im-doing.gif)https://media1.tenor.com/m/fLBP5vMm3EUAAAAC/no-idea-what-im-doing.gif)
+![NoIdeaWhatImDoingGIF (2)](https://github.com/eivindnorling/eivindnorling/assets/141031075/3ce9b183-b6a9-4db7-927c-1e941086daa1)
+
